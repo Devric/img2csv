@@ -1,0 +1,20 @@
+{
+  "name": "img2csv",
+  "version": "0.0.0",
+  "description": "cmd to convert image to csv",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "img"
+  ],
+  "author": "Devric",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "~2.1.0",
+    "underscore": "~1.5.2",
+    "async": "~0.2.9"
+  }
+}
